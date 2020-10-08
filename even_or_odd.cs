@@ -6,7 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace check1 {
+namespace c_sharp_code_samples
+{
     class Program {
         static void Main (string[] args) {
             int i;
